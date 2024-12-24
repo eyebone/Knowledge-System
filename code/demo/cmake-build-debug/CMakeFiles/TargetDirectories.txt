@@ -1,0 +1,3 @@
+/mnt/d/SE/毕业设计/knowledgeSystem/code/demo/cmake-build-debug/CMakeFiles/demo.dir
+/mnt/d/SE/毕业设计/knowledgeSystem/code/demo/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/SE/毕业设计/knowledgeSystem/code/demo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
